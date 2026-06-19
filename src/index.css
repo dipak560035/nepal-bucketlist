@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.hero-bg {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+              url('https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=2000');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+}
+
+.zoom-hover {
+  transition: transform 0.5s ease;
+}
+
+.zoom-hover:hover {
+  transform: scale(1.05);
+}
+
+.gradient-primary {
+  background: linear-gradient(135deg, #0EA5E9 0%, #10B981 100%);
+}
+
+.testimonial-card {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.navbar-scrolled {
+  background: rgba(255,255,255,0.98);
+  box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+}
