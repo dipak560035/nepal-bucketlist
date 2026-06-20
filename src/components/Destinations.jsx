@@ -19,9 +19,7 @@ const Destinations = () => {
                     className="w-full h-64 object-cover zoom-hover" 
                     loading="lazy"
                   />
-                  <div className="absolute top-4 right-4 bg-white px-3 py-1 rounded-full text-sm font-semibold">
-                    <i className="fas fa-star text-yellow-400"></i> {dest.rating}
-                  </div>
+                
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">{dest.name}</h3>
