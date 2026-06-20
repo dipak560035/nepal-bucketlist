@@ -25,10 +25,7 @@ const Destinations = () => {
                   <h3 className="text-xl font-bold text-gray-900 mb-2">{dest.name}</h3>
                   <p className="text-gray-600 mb-4">{dest.description}</p>
                   <div className="flex justify-between items-center">
-                    <div>
-                      <span className="text-2xl font-bold text-sky-600">{dest.price}</span>
-                      <span className="text-gray-500">/person</span>
-                    </div>
+                   
                     
                   </div>
                 </div>
