@@ -11,10 +11,7 @@ const Destinations = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {DESTINATIONS.map((dest) => (
-              <div key={dest.id} className="card-hover bg-white rounded-2xl overflow-hidden shadow-lg">
-           
-                
-              </div>
+          
             ))}
           </div>
         </div>
