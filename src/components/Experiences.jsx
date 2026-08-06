@@ -15,7 +15,7 @@ const Experiences = () => {
                 <div className={`w-16 h-16 ${exp.bg} rounded-2xl flex items-center justify-center mx-auto mb-4`}>
                
                 </div>
-                <h3 className="font-bold text-lg mb-1">{exp.name}</h3>
+          
                 <p className="text-gray-600 text-sm">{exp.trips} Trips</p>
               </div>
             ))}
