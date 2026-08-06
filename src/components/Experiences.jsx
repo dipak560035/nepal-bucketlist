@@ -13,7 +13,7 @@ const Experiences = () => {
             {EXPERIENCES.map((exp) => (
               <div key={exp.id} className={`card-hover bg-gradient-to-br ${exp.gradient} rounded-2xl p-6 text-center`}>
                 <div className={`w-16 h-16 ${exp.bg} rounded-2xl flex items-center justify-center mx-auto mb-4`}>
-                  <i className={`fas ${exp.icon} text-white text-2xl`}></i>
+               
                 </div>
                 <h3 className="font-bold text-lg mb-1">{exp.name}</h3>
                 <p className="text-gray-600 text-sm">{exp.trips} Trips</p>
