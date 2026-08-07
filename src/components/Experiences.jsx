@@ -16,7 +16,7 @@ const Experiences = () => {
                 <div className={`w-16 h-16 ${exp.bg} rounded-2xl flex items-center justify-center mx-auto mb-4`}>
                   <i className={`fas ${exp.icon} text-white text-2xl`}></i>
                 </div>
-                <h3 className="font-bold text-lg mb-1">{exp.name}</h3>
+                
                
               </div>
             ))}
