@@ -8,14 +8,7 @@ export const DESTINATIONS = [
     price: "$2,499"
   },
 
-  {
-    id: 3,
-    name: "Annapurna Region",
-    description: "World's most popular trekking circuit",
-    image: "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.9,
-    price: "$1,899"
-  },
+
   {
     id: 4,
     name: "Chitwan National Park",
