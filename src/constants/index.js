@@ -9,14 +9,7 @@ export const DESTINATIONS = [
   },
 
 
-  {
-    id: 4,
-    name: "Chitwan National Park",
-    description: "Experience wildlife in their natural habitat",
-    image: "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.7,
-    price: "$599"
-  },
+
 
   {
     id: 6,
