@@ -1,12 +1,4 @@
 export const DESTINATIONS = [
-  {
-    id: 1,
-    name: "Everest Base Camp",
-    description: "Trek to the foot of the world's highest mountain",
-    image: "https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.9,
-    price: "$2,499"
-  },
 
 
 
