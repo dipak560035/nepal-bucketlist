@@ -6,12 +6,7 @@ export const DESTINATIONS = [
 ];
 
 
-export const FEATURES = [
-  { id: 1, title: "Local Travel Experts", description: "Our team knows Nepal inside out with years of experience", icon: "fa-map-marked-alt" },
-  { id: 2, title: "Secure Online Booking", description: "Book with confidence using our encrypted payment system", icon: "fa-lock" },
-  { id: 3, title: "Personalized Itineraries", description: "Every trip is customized to your preferences", icon: "fa-route" },
-  { id: 4, title: "24/7 Customer Support", description: "We're always here whenever you need assistance", icon: "fa-headset" }
-];
+
 
 
 
