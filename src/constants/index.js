@@ -17,14 +17,7 @@ export const DESTINATIONS = [
     rating: 4.7,
     price: "$599"
   },
-  {
-    id: 5,
-    name: "Lumbini",
-    description: "Birthplace of Buddha - a spiritual journey",
-    image: "https://images.pexels.com/photos/3573356/pexels-photo-3573356.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.6,
-    price: "$449"
-  },
+
   {
     id: 6,
     name: "Upper Mustang",
