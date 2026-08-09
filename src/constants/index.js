@@ -13,11 +13,7 @@ export const FEATURES = [
   { id: 4, title: "24/7 Customer Support", description: "We're always here whenever you need assistance", icon: "fa-headset" }
 ];
 
-export const STEPS = [
-  { id: 1, title: "Discover Destinations", description: "Explore our curated collection of Nepal's best destinations and experiences" },
-  { id: 2, title: "Customize Your Trip", description: "Personalize every detail to match your travel style and preferences" },
-  { id: 3, title: "Travel & Create Memories", description: "Enjoy your journey and let us handle everything along the way" }
-];
+
 
 
 
