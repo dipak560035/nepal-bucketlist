@@ -10,14 +10,7 @@ export const DESTINATIONS = [
     rating: 4.9,
     price: "$2,499"
   },
-  {
-    id: 2,
-    name: "Pokhara",
-    description: "The gateway to adventure with stunning lakes and views",
-    image: "https://images.pexels.com/photos/2407697/pexels-photo-2407697.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.8,
-    price: "$899"
-  },
+
   {
     id: 3,
     name: "Annapurna Region",
