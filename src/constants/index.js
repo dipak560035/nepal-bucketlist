@@ -14,16 +14,7 @@ export const DESTINATIONS = [
 
 ];
 
-export const EXPERIENCES = [
-  { id: 1, name: "Trekking", icon: "fa-hiking", trips: "120+", gradient: "from-sky-50 to-blue-100", bg: "bg-sky-500" },
-  { id: 2, name: "Mountain Flights", icon: "fa-plane", trips: "25+", gradient: "from-emerald-50 to-green-100", bg: "bg-emerald-500" },
-  { id: 3, name: "Wildlife Safari", icon: "fa-paw", trips: "35+", gradient: "from-orange-50 to-amber-100", bg: "bg-orange-500" },
-  { id: 4, name: "Cultural Tours", icon: "fa-landmark", trips: "80+", gradient: "from-purple-50 to-violet-100", bg: "bg-purple-500" },
-  { id: 5, name: "River Rafting", icon: "fa-water", trips: "45+", gradient: "from-cyan-50 to-teal-100", bg: "bg-cyan-500" },
-  { id: 6, name: "Paragliding", icon: "fa-parachute-box", trips: "18+", gradient: "from-pink-50 to-rose-100", bg: "bg-pink-500" },
-  { id: 7, name: "Spiritual Retreats", icon: "fa-spa", trips: "28+", gradient: "from-yellow-50 to-amber-100", bg: "bg-yellow-500" },
-  { id: 8, name: "More Activities", icon: "fa-plus", trips: "150+", gradient: "from-indigo-50 to-blue-100", bg: "bg-indigo-500" }
-];
+
 
 export const FEATURES = [
   { id: 1, title: "Local Travel Experts", description: "Our team knows Nepal inside out with years of experience", icon: "fa-map-marked-alt" },
