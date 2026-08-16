@@ -12,14 +12,6 @@ export const DESTINATIONS = [
  
  
 
-  {
-    id: 6,
-    name: "Upper Mustang",
-    description: "Explore the hidden kingdom in the Himalayas",
-    image: "https://images.pexels.com/photos/196649/pexels-photo-196649.jpeg?auto=compress&cs=tinysrgb&w=800",
-    rating: 4.8,
-    price: "$3,299"
-  }
 ];
 
 export const EXPERIENCES = [
