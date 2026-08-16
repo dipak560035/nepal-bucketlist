@@ -26,16 +26,6 @@ export const FEATURES = [
 
 
 
-export const GALLERY_IMAGES = [
-  { id: 1, alt: "Himalayas", src: "https://images.pexels.com/photos/1054289/pexels-photo-1054289.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 2, alt: "Pokhara Lake", src: "https://images.pexels.com/photos/2407697/pexels-photo-2407697.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 3, alt: "Nepalese Temple", src: "https://images.pexels.com/photos/3573356/pexels-photo-3573356.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 4, alt: "Trekking in Nepal", src: "https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 5, alt: "Wildlife Safari", src: "https://images.pexels.com/photos/247502/pexels-photo-247502.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 6, alt: "Cultural Festival", src: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 7, alt: "Paragliding", src: "https://images.pexels.com/photos/127160/pexels-photo-127160.jpeg?auto=compress&cs=tinysrgb&w=400" },
-  { id: 8, alt: "Happy Travelers", src: "https://images.pexels.com/photos/3860081/pexels-photo-3860081.jpeg?auto=compress&cs=tinysrgb&w=400" }
-];
 
 export const PARTNERS = ["Lonely Planet", "TripAdvisor", "National Geographic", "Forbes Travel"];
 
