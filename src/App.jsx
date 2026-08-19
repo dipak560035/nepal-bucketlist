@@ -20,7 +20,7 @@ function App() {
 
      
     
-      <HowItWorks />
+    
       <Testimonials />
       <Trust />
       <Gallery />
