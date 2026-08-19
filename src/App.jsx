@@ -24,7 +24,7 @@ function App() {
 
   
 
-      <Newsletter />
+  
       <FinalCTA />
       <Footer />
       
