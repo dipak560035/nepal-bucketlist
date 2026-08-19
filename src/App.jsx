@@ -25,7 +25,7 @@ function App() {
   
 
   
-      <FinalCTA />
+     
       <Footer />
       
       {/* Font Awesome */}
