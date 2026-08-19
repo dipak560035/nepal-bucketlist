@@ -17,7 +17,7 @@ function App() {
     <div className="bg-gray-50 text-gray-800">
   
 
-      <Search />
+
       <Destinations />
       <Experiences />
       <WhyUs />
