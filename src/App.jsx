@@ -23,7 +23,7 @@ function App() {
     
 
   
-      <Gallery />
+
       <Newsletter />
       <FinalCTA />
       <Footer />
