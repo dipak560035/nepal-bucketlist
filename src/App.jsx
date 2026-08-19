@@ -22,7 +22,7 @@ function App() {
     
     
 
-      <Trust />
+  
       <Gallery />
       <Newsletter />
       <FinalCTA />
