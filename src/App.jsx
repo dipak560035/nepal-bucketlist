@@ -18,7 +18,7 @@ function App() {
   
 
 
-      <Experiences />
+     
       <WhyUs />
       <HowItWorks />
       <Testimonials />
