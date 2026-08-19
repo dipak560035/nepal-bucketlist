@@ -19,7 +19,7 @@ function App() {
 
 
      
-      <WhyUs />
+    
       <HowItWorks />
       <Testimonials />
       <Trust />
