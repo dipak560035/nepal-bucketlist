@@ -18,7 +18,6 @@ function App() {
   
 
 
-      <Destinations />
       <Experiences />
       <WhyUs />
       <HowItWorks />
